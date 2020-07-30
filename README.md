@@ -11,7 +11,7 @@ This project is a starting point for a Flutter application.
 * Clone the repository.
   
   ```bash
-  git clone https://github.com/SenthilNexware/flutter_map_example.git
+  git clone https://github.com/senthilinfo62/whats_app_clone.git
   ```
 
 * Open the project using your favorite IDE. For opening with VS Code:
