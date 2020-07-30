@@ -1,16 +1,21 @@
 # whats_app
 
-A new Flutter application.
+A Flutter Whats App Appliction Clone.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Usage
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+* Clone the repository.
+  
+  ```bash
+  git clone https://github.com/SenthilNexware/flutter_map_example.git
+  ```
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Open the project using your favorite IDE. For opening with VS Code:
+  
+  ```bash
+  code flutter_maps
+  ```.
